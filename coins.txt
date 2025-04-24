@@ -1,0 +1,16 @@
+15
+Alice 40 cents in US$
+Ahad 85 cents in Euro
+Jane 30 cents in AU$
+Bob 55 cents in AU$
+Alice 53 cents in Euro
+Mughal 55 cents in AU$
+Bob 55 cents in US$
+Amad 25 cents in Euro
+Dr. Ali 45 cents in AU$
+Robut 99 cents in Euro
+Grace 54 cents in US$
+Hannah 50 cents in AU$
+Fahad 40 cents in US$
+Momin 75 cents in AU$
+Jane 17 cents in US$
