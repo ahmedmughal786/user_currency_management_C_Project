@@ -1,7 +1,7 @@
 ---
 
 ### 🎯 **Goal of the Program:**
-This program reads user data (name, amount, and currency) from a file called `coins.txt`, processes it, and allows the user to:
+This program reads user data (name, amount, and currency) from a file called `coins.txt`, processes it, and allows the user to
 
 1. **View user information**  
 2. **Save the user data into a CSV file**  
